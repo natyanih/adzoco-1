@@ -161,7 +161,7 @@ img {
   width: 48px;
   height: 48px;
   border: 1px solid #ffffff;
-  padding: 24px 30px;
+  padding: 30px 30px;
   cursor: pointer;
 }
 #header .top-header #menu span {
@@ -672,3 +672,7 @@ img {
   color: #6c9c01;
 }
 /* Footer Section End */
+
+.advertise {
+  margin-left : 0 !important;
+}
